@@ -1,0 +1,1 @@
+print('SkillChain AI Model')

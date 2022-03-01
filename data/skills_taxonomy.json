@@ -1,0 +1,33 @@
+{
+  "technical_skills": [
+    "Python",
+    "JavaScript",
+    "SQL",
+    "Excel",
+    "HTML",
+    "CSS",
+    "TensorFlow",
+    "Scikit-learn"
+  ],
+  "soft_skills": [
+    "Communication",
+    "Teamwork",
+    "Problem Solving",
+    "Time Management",
+    "Leadership",
+    "Adaptability"
+  ],
+  "languages": [
+    "English",
+    "Turkish",
+    "German",
+    "Spanish"
+  ],
+  "platforms": [
+    "GitHub",
+    "Jira",
+    "Confluence",
+    "Slack",
+    "Google Workspace"
+  ]
+}
